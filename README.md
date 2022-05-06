@@ -6,4 +6,4 @@ Very basic, but good practice.
 
 
 
-## Made with ~~💖~~ **code**
+## Made with `code`
